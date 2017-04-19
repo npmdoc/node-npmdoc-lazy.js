@@ -1,22 +1,22 @@
 <svg height="302" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="302" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 05:11:31 +0000   302465 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 05:11:31 +0000     6760 byte  CHANGES.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 05:11:31 +0000     1269 byte  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 05:11:31 +0000     1064 byte  LICENSE.txt</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 05:11:31 +0000     9653 byte  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 05:11:31 +0000     8683 byte  README_zh_CN.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-07 05:11:31 +0000      205 byte  autodoc/handlers.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-07 05:11:31 +0000      123 byte  bower.json</tspan>
-<tspan x="10" y="154">  8.  2017-04-07 05:11:31 +0000      355 byte  component.json</tspan>
-<tspan x="10" y="170">  9.  2017-04-07 05:11:31 +0000     3695 byte  experimental/lazy.es6.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-07 05:11:31 +0000     7949 byte  experimental/lazy.json.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-07 05:11:31 +0000   197243 byte  lazy.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-07 05:11:31 +0000    49071 byte  lazy.min.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-07 05:11:31 +0000     4970 byte  lazy.node.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-07 05:11:31 +0000     2934 byte  package.json</tspan>
-<tspan x="10" y="266"> 15.  2017-04-07 05:11:31 +0000     8114 byte  perf/perf_race.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-07 05:11:31 +0000      377 byte  util.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 04:22:55 +0000   302465 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 04:22:55 +0000     6760 bytes  CHANGES.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 04:22:55 +0000     1269 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 04:22:55 +0000     1064 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 04:22:55 +0000     9653 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 04:22:55 +0000     8683 bytes  README_zh_CN.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 04:22:55 +0000      205 bytes  autodoc/handlers.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 04:22:55 +0000      123 bytes  bower.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 04:22:55 +0000      355 bytes  component.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 04:22:55 +0000     3695 bytes  experimental/lazy.es6.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 04:22:55 +0000     7949 bytes  experimental/lazy.json.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 04:22:55 +0000   197243 bytes  lazy.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 04:22:55 +0000    49071 bytes  lazy.min.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 04:22:55 +0000     4970 bytes  lazy.node.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 04:22:55 +0000     2934 bytes  package.json</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 04:22:55 +0000     8114 bytes  perf/perf_race.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-19 04:22:55 +0000      377 bytes  util.js</tspan>
 </text>
 </svg>
